@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+    color: green;
+    font-family: "Arial Black",serif;
+}
+h1{
+    color: red;
+    text-decoration: underline;
+    text-decoration-style: dashed;
+}
